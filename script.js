@@ -9,17 +9,20 @@ const elts = {
 
 // The strings to morph between. You can change these to anything you want!
 const texts = [
-"Why",
-"is",
-"this",
-"so",
-"satisfying",
-"to",
-"watch?"];
+"I",
+"hate",
+"the",
+"jews!",
+"burn",
+"them",
+"in",
+"the",
+"chambers",
+"HEIL HITLER! JOIN THE THIRD REICH"];
 
 
 // Controls the speed of morphing.
-const morphTime = 1;
+const morphTime = 0.25;
 const cooldownTime = 0.25;
 
 let textIndex = texts.length - 1;
